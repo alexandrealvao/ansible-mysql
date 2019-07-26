@@ -3,11 +3,6 @@ mysql_db
 
 Role for installing a simple mysql database.
 
-Requirements
-------------
-
-Requires execution of prerequisites role.
-
 Example Playbook
 ----------------
 
